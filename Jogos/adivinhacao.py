@@ -9,7 +9,7 @@ def jogar(): #Criando função para chamar código
     numero_secreto = random.randrange(1, 101) #Gerando número de 1 a 100
     chute = 0
     total_de_tentativas = 3
-    pontos = 100
+    pontos = 300
 
     print("Qual nível de dificuldade?")
     print("(1) Fácil, (2) Médio, (3) Difícil")
