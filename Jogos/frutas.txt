@@ -33,3 +33,15 @@ mirtilo
 figo
 pitaya
 bacaba
+tamarindo
+groselha
+nectarina
+mixia
+bacuri
+curiti
+marmelo
+tâmara
+graviola
+buriti
+damasco
+
